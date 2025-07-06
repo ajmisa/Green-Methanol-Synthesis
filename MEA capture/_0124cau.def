@@ -1,0 +1,11 @@
+SLAVE:
+INPUT: _0124cau.inm
+MODNAME: apmain
+RUNID: _0124cau
+NEW_RUNID: _0124cau
+OLD_RUNID: _0124cau
+PDF: _0124cau.appdf
+USERNAME: ajmis
+XMOD: C:\Program Files\AspenTech\Aspen Plus V14.0\Engine\xeq\apmain
+SPONLY:
+DBCONN: _0124cau

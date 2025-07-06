@@ -1,0 +1,10 @@
+INPUT: Step 2 - Absorber and Stripper Integrated Model.inm
+MODNAME: apmain
+RUNID: Step 2 - Absorber and Stripper Integrated Model
+NEW_RUNID: Step 2 - Absorber and Stripper Integrated Model
+OLD_RUNID: Step 2 - Absorber and Stripper Integrated Model
+PDF: Step 2 - Absorber and Stripper Integrated Model.appdf
+USERNAME: ajmis
+XMOD: C:\Program Files\AspenTech\Aspen Plus V14.0\Engine\xeq\apmain
+SPONLY:
+DBCONN: _4532qva.ads
