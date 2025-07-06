@@ -29,5 +29,18 @@ The project integrates:
 - **Thermodynamic Models**: ELECNRTL, RK-Soave, NRTL  
 - **Reaction Kinetics**: Langmuir–Hinshelwood–Hougen–Watson (LHHW)
 
-## Repository Contents
+
+## Team
+
+- Adam Jordani Misa  
+- Artemis Angelopoulou  
+- Hadis Mottaghi Jahromi  
+- Kristof Davies  
+
+**Supervisors**:  
+F. Gallucci, M.T.d. Groot, G. de Felice, G. Anello, N. Amani
+
+## License
+
+This academic project is for educational and illustrative purposes only. Redistribution or reuse of any part requires appropriate citation and consent from the authors.
 
