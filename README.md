@@ -1,6 +1,6 @@
 # Integrated CO₂ Capture and Methanol Synthesis from Cement Plant Flue Gas
 
-This repository presents a detailed process design and techno-economic assessment for converting captured CO₂ from cement plant flue gas into sustainable methanol using green hydrogen. Developed as part of the **6EMA06 Advanced Process Design** course at TU/e, the study aims to support industrial decarbonization through Carbon Capture and Utilization (CCU) strategies.
+This repository presents a detailed process design and techno-economic assessment for converting captured CO₂ from cement plant flue gas into sustainable methanol using green hydrogen. Developed as part of the **6EMA05 Advanced Process Design** course at TU/e, the study aims to support industrial decarbonization through Carbon Capture and Utilization (CCU) strategies.
 
 ## Project Overview
 
